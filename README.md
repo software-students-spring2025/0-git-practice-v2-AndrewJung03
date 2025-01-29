@@ -9,3 +9,6 @@ This article, written by Ansel Atlas, goes over the future outlook of the softwa
 
 I found this article to be interesting because I definitely do agree with the idea that during covid, SWE jobs seemed to be the pinnacle of jobs for anyone which is why there is so much increased competition. And I do believe that almost everyone I know share the same feeling that it is much harder to get a job than it was during the pandemic.
 
+## Comment from Yukun Dong
+
+I like this article. The article points out the situation of nowadays software engineering industry. The surge of AI makes a big influence on the development of software industry. The information and data in the article truly gives a different perspective for our cs students about future career. 
